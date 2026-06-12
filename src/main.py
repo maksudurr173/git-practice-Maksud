@@ -9,3 +9,6 @@ from utils import addition,subtraction
 print(addition(10,10))
 print(subtraction(30,100))
 
+from utils import multiply
+
+print(multiply(10,4))
