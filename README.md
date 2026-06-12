@@ -1,6 +1,7 @@
 #Git Practice Project
 
-**Author Name**: Md. Maksudur Rahman
+**Author's Full Name**: Md. Maksudur Rahman
+**Github username**: maksudurr173
 
 ##Description:
 This small project is about building a simple calculator build in Python, a programming language, to practice Git and Github workflows including branching, merging and commits. 
